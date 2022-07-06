@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+span {
+    border-bottom: 2px solid black;
+    padding: 4px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button {
+    margin: 20px 0;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    background-color: rgb(150, 181, 107);
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 5px 10px;
+}
